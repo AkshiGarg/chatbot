@@ -1,0 +1,34 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "color": "dark",
+            "text": "I am here to help you with your leave plans. You can ask me about following things:",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "color": "dark",
+            "text": " -Upcoming Public Holidays"
+        },
+        {
+            "type": "TextBlock",
+            "color": "dark",
+            "text": " -Upcoming Flexible leaves and can avail the same (if possible)",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "color": "dark",
+            "text": " -Submit a leave request"
+        },
+        {
+            "type": "TextBlock",
+            "color": "dark",
+            "text": " -View your submitted leave requests"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

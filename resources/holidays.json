@@ -1,0 +1,146 @@
+[
+    {
+        "day": "Tuesday",
+        "date": "1-Jan-2019",
+        "name": "New Year's Day",
+        "type": "Public"
+    },
+    {
+        "day": "Monday",
+        "date": "14-Jan-2019",
+        "name": "Makar Sankranti",
+        "type": "flexible"
+    },
+    {
+        "day": "Tuesday",
+        "date": "15-Jan-2019",
+        "name": "Pongal",
+        "type": "flexible"
+    },
+    {
+        "day": "Saturday",
+        "date": "26-Jan-2019",
+        "name": "Republic Day",
+        "type": "Public"
+    },
+    {
+        "day": "Sunday",
+        "date": "10-Feb-2019",
+        "name": "Vasant Panchami",
+        "type": "Public"
+    },
+    {
+        "day": "Monday",
+        "date": "4-mar-2019",
+        "name": "Maha Shivratri",
+        "type": "flexible"
+    },
+    {
+        "day": "Thursday",
+        "date": "21-mar-2019",
+        "name": "Holi",
+        "type": "Public"
+    },
+    {
+        "day": "Saturday",
+        "date": "13-apr-2019",
+        "name": "Ram Navmi",
+        "type": "Public"
+    },
+    {
+        "day": "Sunday",
+        "date": "14-apr-2019",
+        "name": "Vaisakhi",
+        "type": "Public"
+    },
+    {
+        "day": "Friday",
+        "date": "19-apr-2019",
+        "name": "Good Friday",
+        "type": "Flexible"
+    },
+    {
+        "day": "Friday",
+        "date": "24-may-2019",
+        "name": "Nagarro's Day of Reason",
+        "type": "Flexible"
+    },
+    {
+        "day": "Wednesday",
+        "date": "5-Jun-2019",
+        "name": "Idul Fitr",
+        "type": "Flexible"
+    },
+    {
+        "day": "Monday",
+        "date": "12-aug-2019",
+        "name": "Idul Juha",
+        "type": "Flexible"
+    },
+    {
+        "day": "Thursday",
+        "date": "15-Aug-2019",
+        "name": "Independence Day and Raksha Bandhan",
+        "type": "Public"
+    },
+    {
+        "day": "Saturday",
+        "date": "24-Aug-2019",
+        "name": "Janmashtami",
+        "type": "Public"
+    },
+    {
+        "day": "Monday",
+        "date": "2-sep-2019",
+        "name": "Ganesh Chaturthi",
+        "type": "Flexible"
+    },
+	{
+        "day": "Wednesday",
+        "date": "11-sep-2019",
+        "name": "Onam",
+        "type": "Flexible"
+    },
+    {
+        "day": "Wednesday",
+        "date": "2-oct-2019",
+        "name": "Gandhi Jayanti",
+        "type": "Public"
+    },
+    {
+        "day": "Tuesday",
+        "date": "8-oct-2019",
+        "name": "Dussehra",
+        "type": "Public"
+    },
+    {
+        "day": "Sunday",
+        "date": "27-oct-2019",
+        "name": "Diwali",
+        "type": "Public"
+    },
+    {
+        "day": "Monday",
+        "date": "28-oct-2019",
+        "name": "Diwali",
+        "type": "Public"
+    },
+    {
+        "day": "Tuesday",
+        "date": "29-oct-2019",
+        "name": "Bhai Dooj",
+        "type": "Flexible"
+    },
+    {
+        "day": "Tuesday",
+        "date": "12-nov-2019",
+        "name": "Guru Nanak Jayanti",
+        "type": "Flexible"
+    },
+    {
+        "day": "Wednesday",
+        "date": "25-dec-2019",
+        "name": "Christmas",
+        "type": "Public"
+    }
+]
